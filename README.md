@@ -17,7 +17,9 @@
 - 🌱 Keep **innovating & learning** new technologies  
 
 ---
-
+### 🚀 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karizcloud&langs_count=6&layout=compact&theme=dark&hide=css,html)
+---
 ### 🔥 Language Creeper (🚀 In Progress) 
 🎮 **Gamified learning experience for coding**  
 📚 **Interactive quizzes, flashcards, and an IDE**  
