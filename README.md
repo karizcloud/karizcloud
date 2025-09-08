@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Karishma 
 
-🚀 **Passionate Full-Stack Developer & Tech Enthusiast**  
+🚀 **Passionate Learning & Exploring & Tech Enthusiast**  
 💡 Building innovative solutions with **Flutter, Node.js, Firebase & AI**  
 📚 Always learning & exploring new technologies  
 
