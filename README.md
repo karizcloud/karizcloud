@@ -106,19 +106,8 @@ An AI-powered academic companion that helps students manage notes, track schedul
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-![Karishma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🌱 Currently Exploring
 
@@ -151,8 +140,3 @@ I'm always open to exciting projects, collaborations, and conversations about te
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=for-the-badge)
-
-⭐ *If you like my work, consider giving my repositories a star!* ⭐
-
-</div>
