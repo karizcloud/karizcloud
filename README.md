@@ -131,7 +131,7 @@ An AI-powered academic companion that helps students manage notes, track schedul
 
 ## 🤝 Let's Connect!
 
-I'm always open to exciting projects, collaborations, and conversations about tech, AI, and innovation. Don't hesitate to reach out!
+I'm always open to exciting projects, collaborations, and conversations about tech, AI, and innovation. 
 
 <div align="center">
 
