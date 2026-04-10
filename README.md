@@ -4,11 +4,7 @@
 
 ### 🚀 Tech Enthusiast · Flutter Developer · AI Explorer · Problem Solver
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karishma-kale-345177383)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1006karishmakale@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
 
----
 
 *"Code is not just about solving problems — it's about creating possibilities."* 🚀
 
