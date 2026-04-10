@@ -1,66 +1,93 @@
 # 👋 Hey there! I'm Karishma 
 
-🚀 **Passionate Learning & Exploring & Tech Enthusiast**  
-💡 Building innovative solutions with **Flutter, Node.js, Firebase & AI**  
-📚 Always learning & exploring new technologies  
+🚀 A passionate tech enthusiast exploring the world of development, AI, and innovation.
+💻 I enjoy building real-world applications using Flutter, Firebase, and modern web technologies.
+🧠 From creating mobile apps to experimenting with AI-powered tools, I love turning ideas into impactful solutions.
+✨ Always curious, always learning — aiming to build tech that actually makes a difference.
 
----
+🌐 Connect With Me:
 
-## 🌟 Currently Working On:  
-- 🚀 **[Language Creeper](https://github.com/karizcloud/languagecreeper)** - A **gamified coding platform** integrating **quizzes, flashcards, and an online IDE**  
-- 📱 **Cross-platform mobile apps** using **Flutter & Firebase**  
-- 🌍 **Open-source contributions** & building **innovative learning tools**  
+📫 Email: 1006karishmakale@gmail.com
 
-## 🎯 Future Goals:  
-- 🤖 Enhance the **AI-powered learning experience**  
-- 🔥 Expand **Language Creeper** to support **multiple programming languages**  
-- 🌱 Keep **innovating & learning** new technologies  
+💼 LinkedIn: https://www.linkedin.com/in/karishma-kale-345177383
 
----
+💻 Tech Stack:
 
-### 🔥 Language Creeper (🚀 In Progress) 
-🎮 **Gamified learning experience for coding**  
-📚 **Interactive quizzes, flashcards, and an IDE**  
-🔗 **Tech Stack:** Flutter, Node.js, Firebase, JavaScript  
+🖥️ Frontend & App Development
 
-### 📱 ItinerEase – Smart Travel Planner  
-✈️ **Helps users plan itineraries based on budget & interests**  
-🗺️ **Uses Firebase & Java for smooth functionality**  
+Flutter • Dart • HTML5 • CSS3 • JavaScript • React • Tailwind CSS
 
-### 🧑‍💻 Virtual Study Buddy – AI-Powered Study Assistant  
-📖 **A smart assistant for managing notes, schedules, and study plans**  
-🧠 **AI integration for learning insights**
+📱 Mobile App Development
 
-## 🛠 Tech Stack & Skills  
+Flutter • Java (Android Development)
 
-### 💻 Languages & Frameworks  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
+🧠 Backend & Server
 
-### 🛢️ Databases  
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)  
+Node.js • PHP
 
-### ⚙️ Tools & DevOps  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github)  
-![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)  
+🛢️ Databases
 
----
+Firebase • MySQL
 
-## 📊 GitHub Stats  
-![Karishma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karizcloud&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karizcloud&layout=compact&theme=radical)  
+⚙️ Tools & DevOps
 
----
+Git • GitHub • VS Code
 
-## 📫 Connect with Me  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)  
+💻 Programming Languages
+
+Java • JavaScript • Dart • PHP
+
+🚀 Projects:
+💳 TrustMetric – AI-Powered Credit Intelligence Platform
+
+📊 Converts raw financial data into a dynamic trust score (300–900)
+⚙️ Evaluates users across key dimensions:
+
+Liquidity (25%)
+Discipline (25%)
+Stability (20%)
+Asset Protection (15%)
+Risk Behavior (15%)
+
+📈 Generates a normalized score (0–100 → 300–900 scale) with risk tier classification
+🧠 Provides predictive insights for creditworthiness & loan eligibility
+💡 Focused on eliminating dependency on traditional credit history
 
 
+📱 ItinerEase – Smart Travel Planner
+
+✈️ Plan trips based on budget & preferences
+🗺️ Generates structured itineraries with Firebase integration
+
+🛡️ IntrusionX AI – Intelligent Threat Detection System
+
+🔐 AI-powered system for real-time intrusion detection & security monitoring
+📡 Analyzes system/network activity to detect anomalies and suspicious behavior
+🧠 Uses intelligent models to identify potential threats and vulnerabilities
+⚡ Enables proactive security with alerts and risk assessment
+💡 Designed to enhance cybersecurity through automation and AI
+
+🧑‍💻 Virtual Study Buddy – AI Study Assistant
+
+📖 Helps manage notes, schedules, and study flow
+🧠 AI-powered insights for smarter learning
+
+🌱 Currently Exploring:
+
+🤖 AI-powered applications & smart assistants
+📱 Advanced Flutter app architecture
+⚡ Backend integration & real-time systems
+
+🎯 Future Goals:
+
+🚀 Build impactful AI-driven applications
+🌍 Contribute more to open-source
+🔥 Create scalable and user-friendly tech products
+
+📊 GitHub Stats:
+
+(Add your GitHub stats image here)
+
+✍️ Dev Thought:
+
+"Code is not just about solving problems, it's about creating possibilities." 🚀
