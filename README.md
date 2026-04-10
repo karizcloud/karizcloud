@@ -38,6 +38,7 @@ Git • GitHub • VS Code
 Java • JavaScript • Dart • PHP
 
 🚀 Projects:
+
 💳 TrustMetric – AI-Powered Credit Intelligence Platform
 
 📊 Converts raw financial data into a dynamic trust score (300–900)
@@ -59,6 +60,7 @@ Risk Behavior (15%)
 ✈️ Plan trips based on budget & preferences
 🗺️ Generates structured itineraries with Firebase integration
 
+
 🛡️ IntrusionX AI – Intelligent Threat Detection System
 
 🔐 AI-powered system for real-time intrusion detection & security monitoring
@@ -67,10 +69,12 @@ Risk Behavior (15%)
 ⚡ Enables proactive security with alerts and risk assessment
 💡 Designed to enhance cybersecurity through automation and AI
 
+
 🧑‍💻 Virtual Study Buddy – AI Study Assistant
 
 📖 Helps manage notes, schedules, and study flow
 🧠 AI-powered insights for smarter learning
+
 
 🌱 Currently Exploring:
 
